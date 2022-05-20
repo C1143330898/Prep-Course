@@ -176,7 +176,7 @@ function doWhile(numero) {
   //Usar el bucle do ... while.
 var i=0;
 do{
-numero=numero +5;
+numero=numero + 5;
 i=i+1
 }while(i<8);
 return numero;
